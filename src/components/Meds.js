@@ -77,8 +77,8 @@ class Meds extends React.Component{
       <div class="card blue-grey darken-1">
         <div class="card-content white-text">
           <span class="card-title">{medicines.name}</span>
-          <p>{ this.state.lowest }</p>
-          <p>{ this.state.Jas }</p>
+          <p>Lowest price : { medicines.lowest }</p>
+          <p>JAS price : { medicines.JASprice }</p>
         </div>
       </div>
     </div>
