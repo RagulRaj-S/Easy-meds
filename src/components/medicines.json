@@ -1,0 +1,53 @@
+[
+
+      {
+        "id": 1,
+        "name": "Astorvastatin(10mg)",
+        "qty": 10,
+        "JASprice": 4.76,
+        "lowest": 12,
+        "highest":118.5
+      },
+      {
+        "id": 2,
+        "name": "Astorvastatin(20mg)",
+        "qty": "10",
+	 	    "JASprice": "8.56",
+	 	    "lowest": "19",
+	  	  "highest": "212.38"
+      },
+      {
+        "id": 3,
+        "name": "Cefuroxime axetil(250mg)",
+        "qty": "10",
+	 	    "JASprice": "66.37",
+	 	    "lowest": "26",
+	 	    "highest":"500"
+      },
+      {
+        "id": 4,
+        "name": "Cefuroxime axetil(500mg)",
+        "qty": "10",
+	 	    "JASprice": "128.86",
+	 	    "lowest": "43",
+	      "highest":"780"
+      },
+      {
+        "id": 5,
+        "name": "Alprazolam(0.25mg)",
+        "qty": "10",
+	 	    "JASprice": "1.84",
+	 	    "lowest": "1",
+	 	    "highest":"22"
+      },
+      {
+        "id": 6,
+        "name": "Alprazolam(0.50mg)",
+        "qty": "10",
+	 	    "JASprice": "2.97",
+	 	    "lowest": "6.15",
+	 	    "highest":"51"
+      }
+      
+    
+]
